@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Міні спортзал</string>
+    <string name="button_shedule">Програма тренувань</string>
+    <string name="button_go_muscule">Базові вправи</string>
+    <string name="button_go_info">Інфо</string>
+    <string name="button_finish">Вихід</string>
+
+    <string name="button_monday">Понеділок</string>
+    <string name="button_wednesday">Середа</string>
+    <string name="button_friday">Пятниця</string>
+    <string name="button_back">Назад</string>
+
+    <string name="group_muscule">Оберіть групу м\'яз</string>
+
+    <string name="about_all1"><b><i>Міні спортзал 1.5.7</i></b> \n\n <i>Розробив - Мирош Володимир</i></string>
+
+    <string name="stroka">Не важливо як повільно ти просуваєшся. Головне - ти не зупиняєшся.</string>
+    <string name="stroka1"><i>Арнольд Шварцнеггер</i></string>
+
+    <string name="motiv">Мотивація</string>
+</resources>
